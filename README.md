@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 My name is Federico Godoy, i'm from Buenos Aires, Argentina.
 
 Still learning to code, passionate about code analysis, translations and scripting!
