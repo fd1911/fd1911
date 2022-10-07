@@ -4,7 +4,7 @@ My name is Federico Godoy, i'm from Buenos Aires, Argentina.
 Still learning to code, passionate about code analysis, translations and scripting!
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fd1911&show_icons=true&count_private=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fd1911&show_icons=true&count_private=true&theme=darcula)
 <!--
 **fd1911/fd1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
